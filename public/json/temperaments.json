@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "id": 0,
+            "query": "INSERT INTO Temperaments (Temperament) VALUES ('calm')"
+        },
+        {
+            "id": 1,
+            "query": "INSERT INTO Temperaments (Temperament) VALUES ('scared')"
+        },
+        {
+            "id": 2,
+            "query": "INSERT INTO Temperaments (Temperament) VALUES ('energetic')"
+        },
+        {
+            "id": 3,
+            "query": "INSERT INTO Temperaments (Temperament) VALUES ('happy')"
+        },
+        {
+            "id": 4,
+            "query": "INSERT INTO Temperaments (Temperament) VALUES ('lazy')"
+        }
+    ]
+}

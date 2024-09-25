@@ -1,0 +1,44 @@
+{
+    "records": [
+        {
+            "id": 0,
+            "query": "INSERT INTO Species (Species) VALUES ('Dwarf Hamster')"
+        },
+        {
+            "id": 1,
+            "query": "INSERT INTO Species (Species) VALUES ('Tedy bear hamster')"
+        },
+        {
+            "id": 2,
+            "query": "INSERT INTO Species (Species) VALUES ('Jack-Russel')"
+        },
+        {
+            "id": 3,
+            "query": "INSERT INTO Species (Species) VALUES ('Budgy')"
+        },
+        {
+            "id": 4,
+            "query": "INSERT INTO Species (Species) VALUES ('Tortoise')"
+        },
+        {
+            "id": 5,
+            "query": "INSERT INTO Species (Species) VALUES ('Gold Fish')"
+        },
+        {
+            "id": 6,
+            "query": "INSERT INTO Species (Species) VALUES ('Lizzard')"
+        },
+        {
+            "id": 7,
+            "query": "INSERT INTO Species (Species) VALUES ('Bearder Dragon')"
+        },
+        {
+            "id": 8,
+            "query": "INSERT INTO Species (Species) VALUES ('Parrot')"
+        },
+        {
+            "id": 9,
+            "query": "INSERT INTO Species (Species) VALUES ('Corn snake')"
+        }
+    ]
+}

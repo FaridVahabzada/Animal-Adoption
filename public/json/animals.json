@@ -1,0 +1,56 @@
+{
+    "records": [
+        {
+            "id": 0,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Coco', '2020-02-12', 1, 1)"
+        },
+        {
+            "id": 1,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Ted', '2021-02-12', 2, 1)"
+        },
+        {
+            "id": 2,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Coco', '2020-02-12', 3, 2)"
+        },
+        {
+            "id": 3,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Everrest', '2019-02-12', 4, 1)"
+        },
+        {
+            "id": 4,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Rocko', '2020-02-12', 5, 2)"
+        },
+        {
+            "id": 5,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Goldy', '2023-02-12', 6, 1)"
+        },
+        {
+            "id": 6,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Lizzy', '2020-02-12', 7, 2)"
+        },
+        {
+            "id": 7,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Goga', '2018-02-12', 8, 3)"
+        },
+        {
+            "id": 8,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Tweet Tweet', '2020-02-12', 9, 3)"
+        },
+        {
+            "id": 9,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Toothless', '2017-02-12', 10, 2)"
+        },
+        {
+            "id": 10,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Sophie', '2020-02-12', 1, 1)"
+        },
+        {
+            "id": 11,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Teddy', '2021-02-12', 2, 1)"
+        },
+        {
+            "id": 12,
+            "query": "INSERT INTO Animals (Name, Birthday, SpeciesId, SizeId) VALUES ('Roger', '2020-02-18', 9, 3)"
+        }
+    ]
+}
